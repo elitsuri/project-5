@@ -1,0 +1,18 @@
+{
+  "project_name": "\u05e2\u05d5\u05e8\u05da-\u05de\u05e1\u05de\u05db\u05d9\u05dd",
+  "generated_at": "2026-04-23T14:04:03.328825+00:00",
+  "quality_profile": "production",
+  "documentation_policy": {
+    "no_emoji": true,
+    "plain_markdown": true
+  },
+  "stack": [
+    "dotnet"
+  ],
+  "file_count": 13,
+  "artifacts": {
+    "readme": "README.md",
+    "architecture_doc": "docs/ARCHITECTURE.md",
+    "operations_doc": "docs/OPERATIONS.md"
+  }
+}
